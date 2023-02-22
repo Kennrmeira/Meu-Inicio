@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <title>Akatisuki</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="index.html">
+          <img src="logo.jpg" alt="logo" width="200" height="100" />
+        </a>
+        | <a href="integrantes.html"> Membros do Clã </a> |
+        <a href="façaparte.html"> Venha fazer parte do clã! </a>
+      </nav>
+      <hr />
+    </header>
+    <section>
+      <h1>Nossos membros</h1>
+    </section>
+    <br />
+    <section>
+      <section>
+        <h3>Pain - Nagato</h3>
+        <img src="Pain - Nagato.jpg" alt="Pain - Nagato" />
+        <p>
+          É um shinobi de Amegakure descendente do clã Uzumaki. Órfão pelos
+          conflitos da Segunda Guerra Mundial Shinobi, Nagato se uniu de seus
+          companheiros órfãos de guerra, Yahiko e Konan, para formar a Akatsuki.
+          Depois de seu amigo e líder, Yahiko, ser traído e morto por pregar a
+          paz, Nagato se convenceu de que o mundo nunca iria parar de lutar
+          voluntariamente a menos que ele conhecesse o que é a verdadeira dor.
+          Ele adotou o pseudônimo de Pain e se tornou o novo líder da Akatsuki
+          na tentativa de mudar o mundo para um estado de paz através do medo da
+          destruição pelas mãos da Akatsuki.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Círculo dos Homens - Indecifrável, mas aparente sugar completamente
+            o Chakra do inimigo.
+          </li>
+          <li>
+            Círculo das Bestas - Somente Técnicas de Invocação. Relação do nome
+            com a técnica está no fato de que as Técnicas de Invocação consistem
+            em invocar diversos animais e seres.
+          </li>
+          <li>
+            Círculo dos Fantasmas Famintos - Somente Jutsus de Absorção. Relação
+            do nome com a técnica está no fato de faminto ele ingere os ataques
+            alheios.
+          </li>
+          <li>
+            Círculo dos Demônios - Não se sabe ao certo o tipo de técnica, mas
+            deduz-se que seja a mudança na forma de seu corpo, adquirindo assim
+            uma forma uma pouco demoníaca.
+          </li>
+          <li>
+            Círculo de Deus - Não se sabe ao certo o tipo de técnica, mas
+            deduz-se que seja o controle de barreiras, já que é, de certa forma,
+            inatingível e consegue exercer uma força de tração sobre outros
+            objetos.
+          </li>
+          <li>
+            Círculo do Inferno - Muito provavelmente o uso de Genjutsus, onde a
+            relação do nome com a técnica está na tortura exercida no inimigo.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Tobi (Obito Uchiha)</h3>
+        <img
+          src="Tobi (Obito Uchiha).jpg"
+          alt="Tobi (Obito Uchiha)"
+          height="500"
+          width="800"
+        />
+        <p>
+          Ele foi um membro do clã Uchiha de Konohagakure. Acreditava-se que ele
+          tinha morrido durante a Terceira Guerra Mundial Shinobi, com seu único
+          legado sobrevivente sendo o Sharingan que ele deu ao seu companheiro
+          de equipe, Kakashi Hatake. Mas Obito foi salvo da morte e treinado por
+          Madara Uchiha, os acontecimentos da guerra deixaram Obito desiludido
+          com o mundo, e ele quer substitui-lo por um novo.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Proezas de Chakra - Obito possui um chakra poderoso, devido a ser do
+            clã Uchiha, e graças a isso, poderia realizar técnicas de fogo
+            poderosas.
+          </li>
+          <li>Modificações corporais</li>
+          <li>
+            Katon: Bakufū Ranbu - Tirando proveito do Kamui, o usuário convoca
+            um enorme turbilhão que alimenta as chamas que são expelidas de sua
+            boca.
+          </li>
+          <li>
+            Katon: Gōkakyū no Jutsu - Após formar os selos de mão necessários, o
+            usuário amassa seu chakra dentro do corpo e o converte em natureza
+            de fogo e, em seguida, o expulsa da boca.
+          </li>
+          <li>Exescuta uma variedade de diferentes tipos de Ninjutsu</li>
+          <li>Bukijutsu</li>
+          <li>Transformação da natureza</li>
+          <li>Dojutsu</li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Itachi Uchiha</h3>
+        <img src="Itachi Uchiha.jpg" alt="Itachi Uchiha" />
+        <p>
+          É um prodígio do clã Uchiha de Konohagakure. Ele se tornou um
+          criminoso internacional depois de assassinar seu clã inteiro, poupando
+          apenas seu irmão mais novo, Sasuke.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Sharingan Genjutsu: Simplesmente o uso de genjutsu genérico usado
+            por todos os membros do clã Uchiha.
+          </li>
+          <li>
+            Izanami: Um genjutsu que prende um oponente em uma ilusão contínua
+            que se mantém mesmo sem a concentração do usuário.
+          </li>
+          <li>
+            Tsukuyomi: Itachi lança uma ilusão em um oponente onde o tempo se
+            move mais rápido e ele pode infligir tortura mental neles.
+          </li>
+          <li>
+            Amaterasu: Itachi invoca o fogo negro que se move com o seu olhar.
+            As chamas mostram-se muito resilientes, pois sobreviveram à imersão
+            completa na água.
+          </li>
+          <li>
+            Susano'o: A terceira habilidade concedida pelo Mangekyō Sharingan
+            depois de despertar as habilidades em ambos os olhos.
+          </li>
+          <li>
+            Espada de Totsuka: Está embainhada em uma cabaça que o Susanoo de
+            Itachi carrega; a lâmina é realmente o líquido dentro da cabaça que
+            é liberada e moldada, ao invés de uma espada convencional.
+          </li>
+          <li>
+            Escudo Yata: Um escudo carregado pelo Susanoo de Itachi na mão
+            esquerda.
+          </li>
+          <li>
+            Yasaka Magatama: Através do uso de Susanoo, o usuário é capaz de
+            criar o Yasaka Magatama a partir de qualquer uma de suas mãos,
+            consistindo de um número de magatama unidos através de seus
+            respectivos centros por um fio de chakra.
+          </li>
+          <li>
+            Shunshin no Jutsu (Técnica de Cintilação Corporal): Técnica de
+            movimento de alta velocidade, realizada com o uso de chakra para
+            vitali- zar temporariamente o corpo e mover-se em uma explosão curta
+            de velocidade aprimorada.
+          </li>
+          <li>
+            Kuchiyose no Jutsu (Técnica de Evocação): A Técnica de Invocação é
+            um ninjutsu do espaço-tempo que permite ao invocador convocar
+            animais ou pessoas através de longas distâncias instantaneamente.
+          </li>
+          <li>
+            Genjutsu (Técnicas Ilusórias): Técnicas ilusórias empregadas com
+            selos de mão e chakra.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Kisame Hoshigaki</h3>
+        <img
+          src="Kisame Hoshigaki.png"
+          alt="Kisame Hoshigaki"
+          height="500"
+          width="800"
+        />
+        <p>
+          O Monstro da Névoa Oculta, foi um Nukenin de nivel Rank-S dos Sete
+          Espadachins da Névoa de Kirigakure.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Suiton: Goshokuzame - O usuário coloca a mão sobre uma superfície de
+            água e, a partir da pontas de seus dedos, chakra é liberado para a
+            água, dando-lhe forma de cinco tubarões ferozes.
+          </li>
+          <li>
+            Suiton: Bakusui Shōha - O usuário cospe um grande volume de água a
+            partir de sua boca para formar uma grande onda abaixo de seus pés.
+          </li>
+          <li>
+            Suiton: Senshokukō - Esta é uma versão muito maior da Liberação de
+            Água: Cinco Tubarões Famintos na qual o usuário cria mil tubarões a
+            partir de uma vasta fonte de água.
+          </li>
+          <li>
+            Suirō no Jutsu: Essa técnica é utilizada para capturar uma vítima
+            dentro de uma esfera praticamente inevitável de água; com a água
+            podendo ser retirada de fontes próximas ou até mesmo expelida pela
+            boca.
+          </li>
+          <li>
+            Suiton: Daikōdan no Jutsu - O usuário cria um tubarão gigantesco
+            fora da água e, empurrando-o as duas mãos para a frente, envia-o
+            para atacar o adversário.
+          </li>
+          <li>
+            Suiton: Dai Bakusui Shōha - Esta técnica é uma versão em maior
+            escala da Liberação de Água: Onda de Choque Explosiva de Água na
+            qual o usuário expele uma quantidade de água ainda maior, a fim de
+            cobrir uma área inteira com ondas inevitáveis.
+          </li>
+          <li>
+            Suirō Sameodori no Jutsu: Depois de usar a Liberação de Água: Grande
+            Onda de Choque Explosiva de Água e se fundir com Samehada, Kisame
+            Hoshigaki pode controlar todas as coisas dentro da água, e,
+            considerando que esta técnica altera a sua posição, a fim de
+            refletir a direção de seus movimentos, é difícil para o inimigo
+            escapar enquanto Kisame o persegue.
+          </li>
+          <li>
+            Mizu Bunshin no Jutsu: Está técnica é original de Kirigakure, é
+            semelhante aos clones das sombras, exceto que cria clones de água
+            que têm um décimo do poder da pessoa original.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Deidara</h3>
+        <img src="Deidara.jpg" alt="Deidara" height="500" width="800" />
+        <p>
+          Nasceu em Iwagakure, a Vila Oculta da Pedra, onde foi aluno direto do
+          Terceiro Tsuchikage, Ōnoki. Foi um nukenin de rank-S de Iwagakure. Ele
+          também foi um dos mais jovens membros da Akatsuki. E tem o Kekkei
+          genkai Liberação de Explosão, uma técnica que permite o usuário usar o
+          chakra explosivo para causar a explosão de objetos com que tiver
+          contato.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Kibaku Nendo: Está técnica foi desenvolvida a partir de uma técnica
+            proibida que Deidara roubou de Iwagakure, o Kinjutsu de Iwagakure.
+            Usando a capacidade da técnica de amassar chakra em objetos através
+            das bocas nas palmas de suas mãos, Deidara pode infundir argila com
+            chakra.
+          </li>
+          <li>
+            C1 - A forma de Deidara mais básica e versátil de argila explosiva,
+            que é criado a partir de uma única boca de sua palma. Estes são
+            pequenos bonecos animados que muitas vezes se assemelham a animais e
+            insetos, como aranhas, águias, e etc.
+          </li>
+          <li>
+            C2 - Uma das especialidades de Deidara que requer o uso de ambas as
+            suas bocas da palma, criando um grande dragão. O dragão em si é
+            capaz de voar, e, enquanto Deidara está seguro em suas costas, o
+            dragão pode cuspir figuras de argila menores que atacam o adversário
+            como mísseis guiados.
+          </li>
+          <li>
+            C3 - Está é a bomba mais poderosa em larga escala de Deidara, que
+            uma vez ativada torna-se uma enorme estátua que Deidara derruba
+            sobre o alvo. Seu poder explosivo foi grande o suficiente para
+            potencialmente destruir uma grande parte de Sunagakure.
+          </li>
+          <li>
+            Jibaku Bunshin: Depois de criar um clone com a Técnica dos Clones
+            das Sombras, Deidara ingere sua Argila Explosiva para causar uma
+            explosão, criando uma distração que pode ser usada para uma fuga.
+            Com um "anúncio de atentado suicida" a cautela do inimigo é
+            aumentada e esta oportunidade é usada para trocar de lugar com um
+            clone das sombras.
+          </li>
+          <li>
+            C4 Garuda - Esta é uma técnica criada por Deidara para combater o
+            Sharingan e suas técnicas. Usando sua própria boca, em vez das
+            habituais bocas em suas mãos, o usuário cria um boneco gigante de si
+            próprio.
+          </li>
+          <li>
+            C0 - A forma mais elevada da Argila Explosiva de Deidara, sua "Arte
+            Final". O C0 é uma técnica suicida usada como último recurso.
+            Deidara tem uma boca no peito, que é costurada. Depois de desfazer
+            os pontos, Deidara a alimenta com uma grande bola de argila. A boca
+            no peito tem uma conexão direta com o seu coração para conseguir
+            reunir uma grande quantidade de chakra. Em seguida, ele amassa o
+            chakra diretamente nos meridianos do coração e continua a fazê-lo
+            sem interromper até o momento da explosão.
+          </li>
+          <li>
+            Nendo Bunshin:Uma técnica altamente conveniente, característica de
+            Deidara. Acima de todas as outras técnicas de Bunshinjutsu, este
+            clone tem um duplo papel. Ele atua como um substituto e uma
+            armadilha para capturar o inimigo.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Sasori</h3>
+        <img src="Sasori.jpg" alt="Sasori" height="500" width="800" />
+        <p>
+          Devido a uma infância sem o amor de seus próprios pais, Sasori cresceu
+          como um jovem triste e, aos poucos, se tornou uma pessoa sem emoção. O
+          amor pela arte, que aprendeu com a avó, o deixou fascinado por teatro
+          de bonecos, ele teve como ambição, por muito tempo, tornar-se um
+          boneco ele mesmo, vendo na arte algo a ser deixado para o futuro. Aos
+          poucos, ele foi de fato conseguindo isso, convertendo seu corpo em uma
+          espécie de fantoche humano, para manter seu físico e suas capacidades,
+          equipando-se com armas e diferentes recursos de batalha.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Chakura no Ito: Uma vez que estes fios são feitos de chakra muito
+            concentrado, eles podem ser vistos por pessoas além do usuário.
+            Curiosamente, assim como puxar objetos em direção à ele com os fios,
+            o usuário também pode "empurrar" objetos para longe dele, e até
+            mesmo parar objetos em movimento como serras.
+          </li>
+          <li>
+            Shirohigi Ōgi: Mugen no Shū - Depois de tomar o controle de vários
+            corpos ao mesmo tempo, o usuário deixa-os atacar em todo um campo de
+            batalha, resultando em impactos constantes e devastadores.
+          </li>
+          <li>
+            Sennō Sōsa no Jutsu: O usuário sela de longe as memórias do alvo,
+            enterrando uma agulha extremamente pequena no centro de memória do
+            cérebro. As memórias podem ser restauradas cancelando a técnica,
+            destruindo assim a agulha. Se um subordinado tivesse essa operação
+            realizada em seu cérebro e se infiltrasse no campo inimigo, ele pode
+            executar com segurança a atividade de espionagem durante um longo
+            período de tempo sem nenhuma memória do procedimento.
+          </li>
+          <li>
+            Kurohigi: Sōen Katsugeki - Utilizando o Lança-Chamas presente na
+            marionete Sasori, o usuário faz com que um fluxo de fogo seja
+            lançado contra o oponente, podendo controlar sua intensidade.
+          </li>
+          <li>
+            Jiton - A Liberação de Magnetismo é uma natureza avançada de kekkei
+            genkai transmitida, embora com certa raridade dentro do clã Kazekage
+            de Sunagakure.
+          </li>
+          <li>
+            Satetsu Kesshū - Esta técnica aumenta a dureza, criando uma arma de
+            ferro gigantesca em um instante. O peso e o tamanho dessas formas
+            são tão grandes, que elas podem facilmente quebrar um escudo rochoso
+            e romper a maioria das defesas com um golpe.
+          </li>
+          <li>
+            Satetsu Kesshū: Gosunkugi - Sasori manipula a marionete humana do
+            Terceiro Kazekage para liberar areia de ferro e formá-la em
+            múltiplas lanças longas para cercar e atacar o oponente, tornando a
+            chance de escapar difícil.
+          </li>
+          <li>
+            Satetsu Kesshū: Tsuchi - Sasori usa sua marionete humana do Terceiro
+            Kazekage para manipular uma grande quantidade de areia de ferro em
+            um grande bloco, o qual ele pode usar para esmagar seu oponente.
+          </li>
+          <li>
+            Satetsu Shigure - É um ataque de projétil que usa a areia de ferro
+            endurecida em grãos minúsculos para atacar simultaneamente em toda
+            uma vasta gama. As balas são tão rápidas que elas são difíceis de
+            ver.
+          </li>
+          <li>
+            Satetsu Kaihō - Esta técnica utiliza areia de ferro para criar uma
+            esfera gigantesca que ramifica nos pontos. Primeiro o usuário cria
+            duas massas de areia de ferro de campos magnéticos opostos e
+            mescla-os. Isto faz com que as forças magnéticas aumentem
+            instantaneamente e a força repelente criada pelos dois campos
+            magnéticos opostos, espalhando a areia de ferro através de uma vasta
+            área.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Orochimaru</h3>
+        <img src="Orochimaru.jpg" alt="Orochimaru" height="500" width="800" />
+        <p>
+          É um dos Lendários Sannin, junto com Tsunade e Jiraiya, de
+          Konohagakure. Com sua ambição de vida sendo aprender todos os segredos
+          do mundo, Orochimaru busca a imortalidade para que ele possa viver
+          todas as vidas necessárias para realizar sua tarefa. Depois de ser
+          pego em flagrante realizando experimentos antiéticos sobre seus
+          concidadãos por causa desta imortalidade, Orochimaru desertou de
+          Konoha, passando a ser perseguido por suas ambições, e por muitos anos
+          procurou a destruição da aldeia, a fim de se vingar e demonstrar o que
+          ele tinha aprendido.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Sen'ei Tajashu - Ao aumentar a quantidade de cobras invocadas com o
+            Mãos de Serpente Oculta na Sombra, a diversidade deste ninjutsu é
+            aumentada.
+          </li>
+          <li>
+            Mandara no Jin - Com esta técnica, um incontável número de cobras
+            invocadas rasteja para fora da boca de Orochimaru e caça o inimigo.
+            Com tal número esmagador, um verdadeiro "muro de cobras" é formado,
+            fazendo defesa e evasão inefetivos, e além disso as cobras se tornam
+            uma parede defensiva e podem bloquear praticamente qualquer ataque
+            frontal.
+          </li>
+          <li>
+            Kuchiyose: Sanjū Rashōmon - Está invocação é uma atualização para o
+            padrão Invocação: Rashōmon, que — como o próprio nome sugere — não
+            invoca um, mas três ameaçadores Rashōmon. A técnica exige dois selos
+            de invocação para ser concluída, e estes portões têm a mesma função
+            como o único Rashōmon, mas com o triplo da defesa.
+          </li>
+          <li>
+            Kuchiyose: Edo Tensei - Uma técnica proibida em que, utilizando-se
+            uma pessoa viva como um recipiente, a alma de uma pessoa falecida
+            podem ser invocada de volta ao mundo dos vivos e ligada a este.
+          </li>
+          <li>
+            Kanashibari no Jutsu - Uma técnica que restringe fisicamente um
+            oponente, como se o oponente houvesse sido amarrado em cordas de aço
+            invisíveis.
+          </li>
+          <li>
+            Gogyō Fūin - Essa técnica produz um selo poderoso que é usado para
+            bloquear ou atrapalhar o fluxo do chakra num alvo.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Konan</h3>
+        <img src="Konan.jpg" alt="Konan" height="500" width="800" />
+        <p>
+          É a terceira integrante do grupo que ficou conhecido como "Orfãos de
+          Ame" (três crianças cujos pais morreram na Segunda Guerra Mundial
+          Kenochi). Inteligente e estoica, ficou ao lado de Nagato mesmo não
+          concordando com todas as suas ações, embora abraçasse o objetivo final
+          de alcançar a paz. Capaz de ler emoções nele mesmo depois de se tornar
+          Pain, Konan confiava em seu julgamento.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Shikigami no Mai - Quando Konan ativa a técnica, ela se transforma
+            inteiramente em inumeráveis folhas de papel, e some como se fosse
+            uma técnica de ilusão.
+          </li>
+          <li>
+            Shikigami no Mai: Bachi - Depois de usar a Dança do Shikigami, o
+            usuário cria um redemoinho de folhas de papel.
+          </li>
+          <li>
+            Kami Shuriken - Esta é uma técnica que consiste em despejar chakra
+            em um pedaço de papel em uma fração de segundo, endurecendo e dando
+            forma, então ele pode ser usado como uma shuriken. A sua forma é
+            igual à de uma shuriken feita de metal.
+          </li>
+          <li>
+            Kami no Shisha no Jutsu - Esta tem a fama de ser a técnica final de
+            Konan, onde, usando uma quantidade inumerável de pequenas folhas de
+            papel, ela faz com que o lago em Amegakure seja dividido ao meio,
+            resultando na rápida criação de um enorme abismo abaixo do alvo.
+          </li>
+          <li>
+            Kami Bunshin - Tirando proveito da sua habilidade de se transformar
+            em papel, Konanse torna livre para criar e recriar clones parecidos
+            com ela a partir desse material.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Hidan</h3>
+        <img src="Hidan.jpg" alt="Hidan" height="500" width="800" />
+        <p>
+          É um nukenin rank-S que desertou de Yugakure, sente prazer em matar da
+          forma mais dolorosa que conseguisse imaginar, e vê o assassinato como
+          uma vocação religiosa. Com ares de insanidade, é extremamente
+          rancoroso e vingativo.
+        </p>
+        <br />
+        <h3>Habilidades:</h3>
+        <ul class="fire">
+          <li>
+            Ritual Jashin - Usando uma arma, Hidan faz todos os esforços para
+            adquirir sangue de um oponente, onde após consumi-lo, ele desenha o
+            símbolo Jashin no chão. Este processo de alguma forma "une" seu
+            corpo com seu oponente. Uma vez que esta ligação for estabelecida,
+            Hidan toma uma aparência com a pele negra com marcações brancas.
+          </li>
+        </ul>
+      </section>
+      <br />
+      <section>
+        <h3>Kakuzu</h3>
+        <img src="Kakuzu.jpg" alt="Kakuzu" height="500" width="800" />
+        <p>
+          Nascido em Takigakure, era um leal ninja de elite. Ele arriscou sua
+          vida na missão de matar Hashirama Senju, o primeiro Hokage, porém não
+          alcançou seu objetivo. Por esse motivo, acabou sendo castigado,
+          humilhado e preso em sua vila. Revoltado com as punições injustas, ele
+          fugiu da prisão, assassinou os anciões da aldeia e roubou seus
+          corações. Posteriormente, ele voltaria a usar essa técnica de roubar
+          corações com suas próximas vítimas também, para estender seu tempo de
+          vida.
+        </p>
+      </section>
+      <br />
+      <h3>Habilidades:</h3>
+      <ul class="fire">
+        <li>
+          Kimen no Bakuen - Ao usar suas máscaras de fogo e vento fundidas ou se
+          fundindo com elas, Kakuzu faz ambas as máscaras usarem suas técnicas
+          assinatura elementais e combina seus ataques, criando uma poderosa
+          explosão de fogo.
+        </li>
+        <li>
+          Raiton: Gian - A máscara do elemento relâmpago de Kakuzu emite raios
+          em forma de uma lança de sua boca, que depois perfura o inimigo.
+        </li>
+        <li>
+          Doton: Domu - O usuário flui chakra através de todas as partes do seu
+          corpo, causando-o para tornar-se visivelmente mais escuro, o que
+          aumenta seu poder defensivo ao seu limite máximo, tornando a pele tão
+          dura quanto o diamante.
+        </li>
+        <li>
+          Fūton: Atsugai - Uma técnica de vento poderosa que é liberada pela
+          máscara de elemento vento de Kakuzu. Uma massa como furacão é
+          comprimida até uma densidade muito elevada e é então liberada.
+        </li>
+        <li>
+          Jiongu - Kakuzu, que roubou o conhecimento dessa técnica antes de sua
+          deserção de Takigakure, foi capaz de manipular fios pretos para muitas
+          finalidades. Ele era capaz de costurar todos os ferimentos que ele ou
+          outros pudessem sofrer, comumente por recolocar partes do corpo.
+        </li>
+      </ul>
+    </section>
+    <br />
+  </body>
+</html>
