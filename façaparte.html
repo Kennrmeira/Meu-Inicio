@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <title>Akatisuki</title>
+  </head>
+  <body>
+    <header>
+      <nav class="coop">
+        <a href="index.html">
+          <img src="logo.jpg" alt="logo" width="200" height="100" />
+        </a>
+        | <a href="integrantes.html"> Membros do Clã </a> |
+        <a href="façaparte.html"> Venha fazer parte do clã! </a>
+      </nav>
+      <hr />
+    </header>
+    <section>
+      <h1>Junte - se a nossa causa!</h1>
+      <p>
+        Assine este formulario com as informações que precisamos e assim que
+        analizarmos os seus dados, entraremos em contato com você.
+      </p>
+    </section>
+    <br /><br />
+    <section>
+      <form>
+        <div>
+          <label for="name" class="coop">Nome:</label class="coop">
+          <input type="text" id="name" name="name" />
+          <label for="Vila" class="coop">Vila:</label>
+          <input type="text" name="Vila" id="Vila" />
+        </div>
+        <br />
+        <div>
+          <label for="técnica em destaque" class="coop">Técnica em destaque:</label>
+          <select name="técnica em destaque" id="Técnica em destaque">
+            <option value="taijutsu">Taijutsu</option>
+            <option value="ninjutsu">Ninjutsu</option>
+            <option value="genjutsu">Genjutsu</option>
+          </select>
+          -
+          <label for="desertor" class="coop">Desertor?</label>
+          <input
+            type="search"
+            name="desertor"
+            id="desertor"
+            list="desertores"
+          />
+          <datalist id="desertores">
+            <option value="Sim"></option>
+            <option value="Não"></option>
+            <option value="Ainda não"></option>
+          </datalist>
+        </div>
+        <br />
+        <div>
+          <input type="submit" name="" value="Enviar Menssagem" />
+        </div>
+      </form>
+    </section>
+  </body>
+</html>

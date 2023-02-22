@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: "Libre Bodoni", cursive;
+  font-size: 20px;
+}
+
+p {
+  color: white;
+}
+
+.moon {
+  color: white;
+}
+
+h3 {
+  color: red;
+}
+
+.fire {
+  color: white;
+}
+
+.coop {
+  color: white;
+}
